@@ -26,7 +26,7 @@ public class TumbleManager : MonoBehaviour {
 		{
 			if(Random.Range(1,40)==5)
 			{
-				Vector3 tumbleStart = new Vector3(start.transform.localPosition.x-1200,start.transform.localPosition.y-0.5f,start.transform.localPosition.z+Random.Range(1,100));
+				Vector3 tumbleStart = new Vector3(start.transform.localPosition.x-1200,start.transform.localPosition.y-100,start.transform.localPosition.z+Random.Range(1,100));
 				GameObject tempTumble = Instantiate(tumbleWeedPrefab,tumbleStart,tumbleWeedPrefab.transform.rotation)as GameObject;
 				AddChild (tempTumble);
 				totalTumble++;

@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 7f5c9d9a88f244f5097937aa3b79eaf0
+timeCreated: 1498333986
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ground:Ground
+    100002: ground:polySurface2
+    100004: ground:polySurface3
+    100006: ground:water
+    100008: ground:water1
+    100010: mountain_01_Zbrush:pPlane2
+    100012: mountain_02_Zbrush:polySurface3
+    100014: mountain_05_Zbrush:Group37947
+    100016: //RootNode
+    400000: ground:Ground
+    400002: ground:polySurface2
+    400004: ground:polySurface3
+    400006: ground:water
+    400008: ground:water1
+    400010: mountain_01_Zbrush:pPlane2
+    400012: mountain_02_Zbrush:polySurface3
+    400014: mountain_05_Zbrush:Group37947
+    400016: //RootNode
+    2300000: ground:Ground
+    2300002: ground:polySurface2
+    2300004: ground:polySurface3
+    2300006: ground:water
+    2300008: ground:water1
+    2300010: mountain_01_Zbrush:pPlane2
+    2300012: mountain_02_Zbrush:polySurface3
+    2300014: mountain_05_Zbrush:Group37947
+    3300000: ground:Ground
+    3300002: ground:polySurface2
+    3300004: ground:polySurface3
+    3300006: ground:water
+    3300008: ground:water1
+    3300010: mountain_01_Zbrush:pPlane2
+    3300012: mountain_02_Zbrush:polySurface3
+    3300014: mountain_05_Zbrush:Group37947
+    4300000: ground:Ground
+    4300002: ground:water
+    4300004: ground:water1
+    4300006: mountain_01_Zbrush:pPlane2
+    4300008: mountain_02_Zbrush:polySurface3
+    4300010: ground:polySurface2
+    4300012: mountain_05_Zbrush:Group37947
+    4300014: ground:polySurface3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

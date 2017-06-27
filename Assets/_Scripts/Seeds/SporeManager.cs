@@ -122,6 +122,7 @@ public class SporeManager : MonoBehaviour {
 					for (int i = 0; i < tumbleChildren.Count; i++) {
 						tSeed =	(GameObject)tumbleChildren [i];
 						GameObject tempFlower = Instantiate(flowerPrefab,tSeed.transform.localPosition, tSeed.transform.localRotation)as GameObject;
+						Destroy(tSeed.gameObject);
 					}
 
 

@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GameJameStart.unity
+    path: Assets/_Scenes/Start.unity
     guid: e83dde48a6a254df0bce14accfc10418
   - enabled: 1
-    path: Assets/Scenes/tumbler.unity
+    path: Assets/_Scenes/Main.unity
     guid: 84c18f191eee25c47a847a6dd4993851
